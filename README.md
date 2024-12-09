@@ -8,7 +8,7 @@ This project is a simple and responsive image gallery webpage built with HTML an
 
 ## Visit My Page
 
-
+https://srideviv93.github.io/Image-Gallery/
 
 ## Features
 
