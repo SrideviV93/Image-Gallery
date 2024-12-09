@@ -1,0 +1,94 @@
+
+.container{
+    border: solid blue 4px;
+    background-color: blanchedalmond;
+    color: black;
+    width: 1000px;
+    height: 900px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.container p{
+    background-color: black;
+    color: white;
+    width: 50px;
+    height: 20px;
+    padding: 2px;
+    border-color: black;
+    border-radius: 4px;
+}
+.heading{
+    padding-left: 350PX;
+    padding-right: 350PX;
+}
+.container h2{
+    text-align: center;
+    padding: 5PX;
+    border-bottom: solid gray 4px;
+    width: 300px;
+}
+.img1{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+
+
+.img2{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+
+.image1{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
+.image2{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+display: flex;}
+.image3{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
+.image4{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
+.image5{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
+.image6{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
+.image7{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
+.image8{
+    width: 200px;
+    height: 300px;
+    border: solid black 2px;
+    display: flex;
+}
